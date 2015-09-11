@@ -1,0 +1,25 @@
+Package: sglekwy
+Type: Package
+Title: Sage Grouse Lek Observations for Wyoming
+Version: 0.0.6
+Date: 2015-09-07
+Authors@R: c(
+    person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
+    person("Rob Roy", "Ramey", email = "robroyrameyii@gmail.com", role = c("aut", "dtc")),
+    person("Lex", "Ivey", email = "lexivey@terracog.com", role = c("aut", "dtc")),
+    person("Tom", "Christiansen", email = "tom.christiansen@wyo.gov", role = c("aut", "dtc")))
+Description: Greater sage grouse lek observations for
+  the State of Wyoming from 1948 to 2015.
+  At the request of the State of Wyoming
+  the geolocations of individual leks and the names of individuals
+  conducting lek counts are not included although
+  the official state individual lek identifiers are provided.
+License: CC BY 4.0 + file LICENSE
+URL: https://github.com/poissonconsulting/sglekwy
+LazyData: true
+Depends:
+    R (>= 3.2.2)
+Suggests:
+    devtools (>= 1.8.0),
+    magrittr,
+    dplyr
