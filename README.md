@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/10250/poissonconsulting/sglekwy.svg)](https://zenodo.org/badge/latestdoi/10250/poissonconsulting/sglekwy)
+
 Sage Grouse Lek Observations for Wyoming
 
 `sglekwy` is an R package of greater sage grouse 
