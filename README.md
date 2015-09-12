@@ -18,4 +18,4 @@ library(sglekwy)
 
 ## Information
 
-For more information type `?sglekwy` at the R console after loading the package.
+For more information type `?lek` and `?harvest` at the R console after loading the package.
