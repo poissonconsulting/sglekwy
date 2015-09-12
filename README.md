@@ -21,6 +21,13 @@ install.packages("sglekwy", dependencies = TRUE)
 library(sglekwy)
 ```
 
+If you get the message
+```
+Error in install.packages : Line starting 'The page you're look ...' is malformed!
+```
+then you will have to download the package using 
+a [standard HTTP connection](https://support.rstudio.com/hc/en-us/articles/206827897) without encryption.
+
 ## Information
 
 For more information type `?sglekwy` at the R console after loading the package with `library(sglekwy)`.
