@@ -1,8 +1,7 @@
 Package: sglekwy
 Type: Package
 Title: Sage Grouse Lek Observations for Wyoming
-Version: 0.0.7
-Date: 2015-09-11
+Version: 0.0.8
 Authors@R: c(
     person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
     person("Rob Roy", "Ramey", email = "robroyrameyii@gmail.com", role = c("aut", "dtc")),
@@ -20,6 +19,6 @@ LazyData: true
 Depends:
     R (>= 3.2.2)
 Suggests:
-    devtools (>= 1.8.0),
-    magrittr (>= 1.5),
-    dplyr (>= 0.4.3)
+    devtools,
+    magrittr,
+    dplyr
