@@ -1,3 +1,5 @@
+[![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/sglekwy.svg?branch=master)](https://travis-ci.org/poissonconsulting/sglekwy)
+
 # Sage Grouse Lek Observations for Wyoming
 
 `sglekwy` is an R package of greater sage grouse 
@@ -9,7 +11,7 @@ the official state individual lek identifiers are provided.
 
 ## Installation
 
-To install and load `sglekwy` execute the following code at the R terminal:
+To install and load the latest version of `sglekwy` execute the following code at the R terminal:
 ```
 library(devtools)
 install_github("poissonconsulting/sglekwy")

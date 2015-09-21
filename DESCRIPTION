@@ -4,8 +4,8 @@ Title: Sage Grouse Lek Observations for Wyoming
 Version: 0.0.8
 Authors@R: c(
     person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
-    person("Rob Roy", "Ramey", email = "robroyrameyii@gmail.com", role = c("aut", "dtc")),
-    person("Lex", "Ivey", email = "lexivey@terracog.com", role = c("aut", "dtc")),
+    person("Rob Roy", "Ramey", role = c("aut", "dtc")),
+    person("Lex", "Ivey", role = c("aut", "dtc")),
     person("Tom", "Christiansen", email = "tom.christiansen@wyo.gov", role = c("aut", "dtc")))
 Description: Greater sage grouse lek observations for
   the State of Wyoming from 1948 to 2015.
