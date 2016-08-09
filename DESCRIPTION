@@ -8,11 +8,11 @@ Authors@R: c(
     person("Lex", "Ivey", role = c("aut", "dtc")),
     person("Tom", "Christiansen", email = "tom.christiansen@wyo.gov", role = c("aut", "dtc")))
 Description: Greater sage grouse lek observations for
-  the State of Wyoming from 1948 to 2015.
-  At the request of the State of Wyoming
-  the geolocations of individual leks and the names of individuals
-  conducting lek counts are not included although
-  the official state individual lek identifiers are provided.
+    the State of Wyoming from 1948 to 2015.
+    At the request of the State of Wyoming
+    the geolocations of individual leks and the names of individuals
+    conducting lek counts are not included although
+    the official state individual lek identifiers are provided.
 License: CC BY 4.0 + file LICENSE
 URL: https://github.com/poissonconsulting/sglekwy
 LazyData: true
@@ -22,3 +22,4 @@ Suggests:
     devtools,
     magrittr,
     dplyr
+RoxygenNote: 5.0.1
