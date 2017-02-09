@@ -19,4 +19,3 @@ conducting lek counts are not included although
 the official state individual lek identifiers are provided.
 }
 \keyword{datasets}
-

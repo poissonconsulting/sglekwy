@@ -20,4 +20,3 @@ harvest
 Sage Grouse Harvest Data by Working Group for Wyoming
 }
 \keyword{datasets}
-
