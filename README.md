@@ -1,5 +1,5 @@
+[![DOI](https://zenodo.org/badge/42337042.svg)](https://zenodo.org/badge/latestdoi/42337042)
 [![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/sglekwy.svg?branch=master)](https://travis-ci.org/poissonconsulting/sglekwy)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.31476.svg)](http://dx.doi.org/10.5281/zenodo.31476)
 
 # Sage Grouse Lek Observations for Wyoming
 
