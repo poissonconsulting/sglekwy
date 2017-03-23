@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/42337042.svg)](https://zenodo.org/badge/latestdoi/42337042)
 [![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/sglekwy.svg?branch=master)](https://travis-ci.org/poissonconsulting/sglekwy)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/poissonconsulting/sglekwy?branch=master&svg=true)](https://ci.appveyo
 
 # Sage Grouse Lek Observations for Wyoming
 
@@ -12,11 +13,10 @@ the official state individual lek identifiers are provided.
 
 ## Installation
 
-To install and load the latest version of `sglekwy` execute the following code at the R terminal:
+To install the latest version of `sglekwy`
 ```
-library(devtools)
-install_github("poissonconsulting/sglekwy")
-library(sglekwy)
+# install.packages("devtools")
+devtools::install_github("poissonconsulting/sglekwy")
 ```
 
 ## Information
