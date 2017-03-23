@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/42337042.svg)](https://zenodo.org/badge/latestdoi/42337042)
 [![Travis-CI Build Status](https://travis-ci.org/poissonconsulting/sglekwy.svg?branch=master)](https://travis-ci.org/poissonconsulting/sglekwy)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/poissonconsulting/sglekwy?branch=master&svg=true)](https://ci.appveyo
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/poissonconsulting/sglekwy?branch=master&svg=true)](https://ci.appveyor.com/project/poissonconsulting/sglekwy)
 
 # Sage Grouse Lek Observations for Wyoming
 
