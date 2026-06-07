@@ -4,7 +4,8 @@ Title: Sage Grouse Lek Observations for Wyoming
 Version: 0.0.11
 Date: 2017-02-09
 Authors@R: c(
-    person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre")),
+    person("Joe", "Thorley", email = "joe@poissonconsulting.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-7683-4592")),
     person("Rob Roy", "Ramey", role = c("aut", "dtc")),
     person("Lex", "Ivey", role = c("aut", "dtc")),
     person("Tom", "Christiansen", email = "tom.christiansen@wyo.gov", role = c("aut", "dtc")))
