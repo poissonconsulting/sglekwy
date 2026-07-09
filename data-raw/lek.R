@@ -4,7 +4,10 @@ library(dplyr)
 
 rm(list = ls())
 
-lek <- read.csv("data-raw/SG_Lek_Observations_1948_2015.csv", stringsAsFactors = TRUE)
+lek <- read.csv(
+  "data-raw/SG_Lek_Observations_1948_2015.csv",
+  stringsAsFactors = TRUE
+)
 
 lek$Comments <- NULL
 
