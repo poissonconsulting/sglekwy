@@ -4,3 +4,5 @@
 ^data-raw$
 ^\.travis\.yml$
 ^appveyor\.yml$
+^[.]?air[.]toml$
+^\.vscode$
